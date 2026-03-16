@@ -1,3 +1,7 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 ﻿#!/usr/bin/env python3
 """
 Simple VTP Auto-Configuration

@@ -1,3 +1,7 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 from netmiko import ConnectHandler
 from getpass import getpass
 from datetime import datetime
