@@ -13,7 +13,7 @@ jump_host = {
     "device_type": "cisco_ios",
     "host": "10.10.40.254",
     "username": "cisco",
-    "password": "Xadmin74377",
+    "password": "cisco",
     "fast_cli": False,  # safer for interactive ssh prompts
 }
 
