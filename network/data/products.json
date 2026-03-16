@@ -1,0 +1,58 @@
+[
+  {
+    "id": "p-walnuts",
+    "name": "Organic Walnuts (500g)",
+    "slug": "organic-walnuts-500g",
+    "category": "dry-fruits",
+    "short": "Premium organic walnuts from Hunza Valley.",
+    "description": "Sustainably sourced walnuts from Northern Pakistan. Naturally dried, no additives.",
+    "origin": "Gilgit-Baltistan, Pakistan",
+    "priceUSD": 12.0,
+    "inventory": 120,
+    "images": [
+      "/products/walnuts.jpg"
+    ]
+  },
+  {
+    "id": "p-honey",
+    "name": "Wild Forest Honey (500g)",
+    "slug": "wild-forest-honey-500g",
+    "category": "honey",
+    "short": "Raw, unfiltered forest honey.",
+    "description": "Collected by trusted beekeepers in forest regions. Rich aroma, lab-test ready.",
+    "origin": "Khyber Pakhtunkhwa, Pakistan",
+    "priceUSD": 15.0,
+    "inventory": 80,
+    "images": [
+      "/products/honey.jpg"
+    ]
+  },
+  {
+    "id": "p-ghee",
+    "name": "Buffalo Desi Ghee (1kg)",
+    "slug": "buffalo-desi-ghee-1kg",
+    "category": "ghee",
+    "short": "Traditional clarified butter from water buffalo milk.",
+    "description": "Slow-cooked, granulated texture, rich flavor. No preservatives.",
+    "origin": "Punjab, Pakistan",
+    "priceUSD": 18.0,
+    "inventory": 60,
+    "images": [
+      "/products/ghee.jpg"
+    ]
+  },
+  {
+    "id": "p-pashmina",
+    "name": "Pashmina Handwoven Shawl",
+    "slug": "pashmina-handwoven-shawl",
+    "category": "shawls",
+    "short": "Luxurious handwoven Pashmina shawl.",
+    "description": "Ethically crafted by artisans. Soft, warm, and elegant. Dry clean only.",
+    "origin": "Kashmir region",
+    "priceUSD": 120.0,
+    "inventory": 25,
+    "images": [
+      "/products/pashmina.jpg"
+    ]
+  }
+]

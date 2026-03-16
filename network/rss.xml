@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qur'an Classes with Engineer Muhammad Ali Mirza</title>
+    <description>Complete Qur'an classes and lectures</description>
+    <language>ur-PK</language>
+    <lastBuildDate>Thu, 26 Feb 2026 23:09:53 +0000</lastBuildDate>
+    <link>https://creators.spotify.com/pod/show/4c4mqCEfKC0SJWN1c0r6JC</link>
+    <atom:link href="https://quran-classes-podcast.netlify.app/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <itunes:author>Engineer Muhammad Ali Mirza</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Engineer Muhammad Ali Mirza</itunes:name>
+      <itunes:email>your-email@example.com</itunes:email>
+    </itunes:owner>
+
+    <!-- EPISODE 1 -->
+    <item>
+      <title>Surat Al-Kahaf (Ayat No. 09 to 26) ki TAFSEER</title>
+      <description>Complete explanation of Surat Al-Kahaf verses 9 to 26 by Engineer Muhammad Ali Mirza</description>
+      <pubDate>Thu, 26 Feb 2026 23:09:53 +0000</pubDate>
+      <enclosure 
+        url="https://drive.usercontent.google.com/download?id=1Izfz3MiuNXhS7zHwj48FnLPFayPXt-Jd&export=download" 
+        length="55250108" 
+        type="audio/mp4"/>
+      <guid isPermaLink="false">episode-203-quran-class</guid>
+      <itunes:duration>01:30:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

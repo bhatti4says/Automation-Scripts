@@ -1,0 +1,16 @@
+{
+  "siteName": "PakOrigin",
+  "baseCurrency": "USD",
+  "currencies": [
+    "USD",
+    "GBP",
+    "EUR",
+    "AED"
+  ],
+  "exchangeRates": {
+    "USD": 1,
+    "GBP": 0.79,
+    "EUR": 0.92,
+    "AED": 3.67
+  }
+}
