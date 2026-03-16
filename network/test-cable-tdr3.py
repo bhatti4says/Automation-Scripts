@@ -7,7 +7,7 @@ device = {
     'device_type': 'cisco_ios',
     'host': '10.20.39.21',
     'username': 'cisco',
-    'password': 'Xadmin74377',
+    'password': 'cisco',
 }
 
 interfaces = ["Gi1/0/8", "Gi1/0/23", "Gi1/0/24"]
