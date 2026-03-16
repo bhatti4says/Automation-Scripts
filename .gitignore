@@ -1,3 +1,19 @@
+# Secrets
 .env
+
+# Python Virtual Environment
 venv/
+ENV/
+env/
+
+# Python Cache (Avoids Circular Import issues)
 __pycache__/
+*.py[cod]
+*.class
+
+# OS Specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
